@@ -1,4 +1,4 @@
-##Text Classification Data Mining Project
+# Text Classification Data Mining Project
 
 Write a text classification pipeline to classify tweets as either: positive, negative or neutral. A
 dataset (training and testing) is provided.
